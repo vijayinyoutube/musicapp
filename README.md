@@ -2,7 +2,7 @@
 
 A sample music player app built using Flutter
 
-[![BUILD](https://img.shields.io/badge/Build-OK-<COLOR>.svg)](https://github.com/vijayinyoutube/musicapp)  [![vijaycreations](https://img.shields.io/website-up-vijaycreations-green-red/http/cv.lbesson.qc.to.svg)](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ) [![Repo Status](https://img.shields.io/badge/RepoStatus-Active-blue.svg)](https://github.com/vijayinyoutube/musicapp)
+[![BUILD](https://img.shields.io/badge/Build-OK-<COLOR>.svg)](https://github.com/vijayinyoutube/musicapp)  [![vijaycreations](https://img.shields.io/website-up-vijaycreations-green-orange/http/cv.lbesson.qc.to.svg)](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ) [![Repo Status](https://img.shields.io/badge/RepoStatus-Active-blue.svg)](https://github.com/vijayinyoutube/musicapp)
 
 ## Flutter
 [Flutter](https://flutter.dev/) is a crossplatfrom UI tool kit that helps in developing native Android and iOS app from a single code base.
