@@ -16,6 +16,10 @@ audioplayers: ^0.10.0
 
 This app make use of Backdrop filter and AnimatedIcons in Flutter to render the screen as below. The app plays a single music file with an option to pause/play that audio as required.
 
+Check out the video tutorial for the same: https://youtu.be/UYUHGMrnTHM 📺
+
+Visit my channel for more: https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ 
+
 <img src="https://user-images.githubusercontent.com/58719230/89102922-5308f680-d42b-11ea-899f-9f088c050618.png">
 
 
