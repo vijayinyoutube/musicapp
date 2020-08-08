@@ -99,7 +99,7 @@ class _PlayerPageState extends State<PlayerPage> with TickerProviderStateMixin {
                             setState(
                               () {
                                 if (!issongplaying) {
-                                  print("hai playing");
+                                  
                                   audioCache.play("music/music1.mp3");
                                 } else {
                                   audioPlayer.pause();
